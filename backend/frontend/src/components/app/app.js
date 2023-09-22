@@ -8,10 +8,10 @@ import Contactme from '../contactme/contactme'
 
 const App = () => {
   return (
-    <div><Header /></div>
-    <div><Experience /></div>
-    <div><Education /></div>
-    <div><Skills /></div>
+    <div><Header /></div>,
+    <div><Experience /></div>,
+    <div><Education /></div>,
+    <div><Skills /></div>,
     <div><Contactme /></div>
   )
 }
